@@ -1,0 +1,78 @@
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.exe
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.deps.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.runtimeconfig.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.runtimeconfig.dev.json
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.dll
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.pdb
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.Views.dll
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.Views.pdb
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csprojAssemblyReference.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.AssemblyInfoInputs.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.AssemblyInfo.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csproj.CoreCompileInputs.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorAssemblyInfo.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorAssemblyInfo.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.TagHelpers.input.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.TagHelpers.output.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorCoreGenerate.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Producto.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductoConfirmacion.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorTargetAssemblyInfo.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorTargetAssemblyInfo.cs
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.Views.pdb
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\staticwebassets\PRG---WEBAPP.StaticWebAssets.Manifest.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\staticwebassets\PRG---WEBAPP.StaticWebAssets.xml
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.dll
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.pdb
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.genruntimeconfig.cache
+C:\Users\aleon\Documents\2020 - II\Programacion Teoria\PRG-FORMREGIS\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csproj.CopyComplete
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.exe
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.deps.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.runtimeconfig.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.runtimeconfig.dev.json
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.dll
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.pdb
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.Views.dll
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\bin\Debug\netcoreapp3.1\PRG---WEBAPP.Views.pdb
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csprojAssemblyReference.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.AssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorAssemblyInfo.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorAssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.TagHelpers.input.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.TagHelpers.output.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorCoreGenerate.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\Producto.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductoConfirmacion.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorTargetAssemblyInfo.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.RazorTargetAssemblyInfo.cs
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.Views.pdb
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\staticwebassets\PRG---WEBAPP.StaticWebAssets.Manifest.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\staticwebassets\PRG---WEBAPP.StaticWebAssets.xml
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.dll
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.pdb
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.genruntimeconfig.cache
+C:\Users\PERSONAL\Desktop\Progra 1\tarea rpg\PRG---WEBAPP\obj\Debug\netcoreapp3.1\PRG---WEBAPP.csproj.CopyComplete
